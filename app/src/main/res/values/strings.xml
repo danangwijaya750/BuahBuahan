@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Buah-Buahan</string>
+    <string-array name="buah">
+        <item>Apel</item>
+        <item>Jeruk</item>
+        <item>Nangka</item>
+        <item>Pisang</item>
+        <item>Semangka</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel. Buah apel biasanya berwarna merah kulitnya jika masak dan (siap dimakan), namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek, daging buahnya keras. Buah ini memiliki beberapa biji di dalamnya.
+
+Orang mulai pertama kali menanam apel di Asia Tengah. Kini apel berkembang di banyak daerah di dunia yang suhu udaranya lebih dingin. Nama ilmiah pohon apel dalam bahasa Latin ialah Malus domestica. Apel budidaya adalah keturunan dari Malus sieversii asal Asia Tengah, dengan sebagian genom dari Malus sylvestris (apel hutan/apel liar).
+
+Kebanyakan apel bagus dimakan mentah-mentah (tak dimasak), dan juga digunakan banyak jenis makanan pesta. Apel dimasak sampai lembek untuk dibuat saus apel. Apel juga dibuat untuk menjadi minuman sari buah apel. </item>
+        <item>Jeruk atau limau adalah semua tumbuhan berbunga anggota marga Citrus dari suku Rutaceae (suku jeruk-jerukan). Anggotanya berbentuk pohon dengan buah yang berdaging dengan rasa masam yang segar, meskipun banyak di antara anggotanya yang memiliki rasa manis. Rasa masam berasal dari kandungan asam sitrat yang memang menjadi terkandung pada semua anggotanya.
+
+Sebutan "jeruk" kadang-kadang juga disematkan pada beberapa anggota marga lain yang masih berkerabat dalam suku yang sama, seperti kingkit. Dalam bahasa sehari-hari, penyebutan "jeruk" atau "limau" (di Sumatra dan Malaysia) seringkali berarti "jeruk keprok" atau "jeruk manis". Di Jawa, "limau" (atau "limo") berarti "jeruk nipis". </item>
+        <item>Daging buah" yang matang seringkali dimakan dalam keadaan segar, dicampur dalam es, dihaluskan menjadi minuman (jus), atau diolah menjadi aneka jenis makanan daerah: dodol nangka, kolak nangka, selai nangka, nangka-goreng-tepung, keripik nangka, dan lain-lain. Nangka juga digunakan sebagai pengharum es krim dan minuman, dijadikan madu-nangka, konsentrat atau tepung. Biji nangka, dikenal sebagai "beton", dapat direbus dan dimakan sebagai sumber karbohidrat tambahan. </item>
+        <item>Pisang mempunyai kandungan gizi sangat baik, antara lain menyediakan energi cukup tinggi dibandingkan dengan buah-buahan lain. Pisang kaya mineral seperti kalium, magnesium, fosfor, besi, dan kalsium. Pisang juga mengandung vitamin, yaitu C, B kompleks, B6, dan serotonin yang aktif sebagai neurotransmitter dalam kelancaran fungsi otak. </item>
+        <item>Buah semangka memiliki kulit yang keras, berwarna hijau pekat atau hijau muda dengan larik-larik hijau tua. Tergantung kultivarnya, daging buahnya yang berair berwarna merah atau kuning.
+
+Tanaman ini cukup tahan akan kekeringan terutama apabila telah memasuki masa pembentukan buah. </item>
+    </string-array>
+    <integer-array name="gambar">
+        <item>@drawable/index</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/nangka</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/semangka</item>
+    </integer-array>
+</resources>
